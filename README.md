@@ -21,6 +21,9 @@ I contributed to the following parts of the project:
 * Designed and parallelized the LSTM algorithm using DataFrame and RDD.
 * Evaluated the algorithm's performance with RMSE and R-squared metrics.
 <!-- CONTACT -->
+## Dataset
+Dataset Link: [1.5 Million UK Traffic Accidents EDA](https://www.kaggle.com/code/isidronavarrooporto/1-5-million-uk-traffic-accidents-eda/input?select=accidents_2005_to_2007.csv)
+
 ## Contact
 
 Lê Nguyễn Nhật Minh - lnnm121103@gmail.com
